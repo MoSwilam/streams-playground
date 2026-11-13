@@ -1,0 +1,7 @@
+{
+    "type": "node",
+    "request": "attach",
+    "port": 9229,
+    "restart": true,
+    "name": "Attach to Node Process"
+}
